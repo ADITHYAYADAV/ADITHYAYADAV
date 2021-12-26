@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ADITHYA YADAV
-- 👀 I’m interested in ...AI
-- 🌱 I’m currently learning ...PYTHON BASICS
+- 👀 I’m interested in ...cyber security
+- 🌱 I’m currently learning ..PYTHON 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ADITHYAKURRA002@GMAIL.COM
 
